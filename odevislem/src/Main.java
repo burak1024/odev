@@ -1,8 +1,8 @@
-public class Main {
-public static void main(String[] args) {
-    int bolme1 = 6;
-    int bolme2 = 2;
-    int sonucbolme = bolme1 / bolme2;
+
+void main() {
+    double bolme1 = 7;
+    double bolme2 = 2;
+    double sonucbolme = bolme1 / bolme2;
     System.out.println(sonucbolme);
 
     int carpma1 = 2;
@@ -21,7 +21,7 @@ public static void main(String[] args) {
                     int sonuctoplama = toplama1 + toplama2;
                     System.out.println(sonuctoplama);
 }
-}
+
 
 
 
